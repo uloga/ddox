@@ -12,7 +12,9 @@ body{
   margin: 20px  auto;
   display: block;
 }
-.wrapper h1{
-  text-alighn: center;
+.wrapper h1 {
+  text-align: center;
   color: #fff;
+  font-family: Arial;
+  font-size: 21px;
 }
