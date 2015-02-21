@@ -3,7 +3,16 @@ body{
 }
 
 .wrapper{
-  width 450px;
+  width: 450px;
   display: block;
-  margin: 15px auto;
+  margin: 150px auto;
+}
+.wrapper img{
+  width: 100px;
+  margin: 20px  auto;
+  display: block;
+}
+.wrapper h1{
+  text-alighn: center;
+  color: #fff;
 }
